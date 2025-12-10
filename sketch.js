@@ -2,7 +2,7 @@ let myFont;
 let cp=document.getElementById("colorpicker");
 
 function preload(){
-  myFont=loadFont("../fonts/Amakan-Strips.otf")
+  myFont=loadFont("/fonts/Amakan-Strips.otf")
 
 }
 function setup() {
