@@ -13,13 +13,13 @@ body{
 }
 
 @font-face {
-  font-family: Amakan;
-  src: url("fonts/Amakan-Strips.otf");
+  font-family: amakan;
+  src: url("fonts/amakan-Strips.otf");
 }
 
 .container{
   display: flex;
-  font-family: Amakan;
+  font-family: amakan;
 }
 
 #ui{
